@@ -1,5 +1,5 @@
 title:            Morgan Duran
-description:      Morgan Duran's Personal Blog
+description:      Morgan Duran's Blog
 logo: site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
@@ -11,11 +11,11 @@ owner:
   avatar:         bio-photo.jpg
   email:          morganduran@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter: https://twitter.com/morganduran       
   facebook:       
   github:         
   stackexchange:  
-  linkedin:       
+  linkedin: http://www.linkedin.com/pub/morgan-duran/14/478/29      
   instagram:      
   flickr:         
   tumblr:         
